@@ -1,1 +1,1 @@
-# ML
+Code for a project where I used a YOLOv5 CNN to for image detection. The code's goal is to detect the basketball and highlight the confidence of its detections. For data, I used film from my school basketball season which I cut into seperate frames.
